@@ -20,12 +20,12 @@ I’m Thanwisut — a teenager who fell in love with the digital world early on.
 | Tool          | What I use it for                 | Fun fact                      |
 | ------------- | ------------------------------- | ---------------------------- |
 | **sqlmap**    | SQL Injection hunter             | Automates the dirty work     |
-| **Hydra**     | Password cracker                 | Fast & furious brute forcing |
+| **John**     | Password cracker                 | Fast & furious brute forcing |
 | **Metasploit**| Exploitation framework           | Swiss army knife for hackers |
 | **Nmap**      | Network scanning                 | Finds the hidden doors       |
 | **Burp Suite**| Web app testing                  | Man-in-the-middle like a pro |
 | **Wireshark** | Packet sniffing                 | Sniffs packets like a bloodhound |
-| **Nikto**     | Web server scanner              | Spots weaknesses quickly     |
+| **Nuclei**     | Web server scanner              | Spots weaknesses quickly     |
 
 …and a whole arsenal more — because cyber defense is a battlefield!
 
