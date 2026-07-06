@@ -1,4 +1,4 @@
-# 🚀 Thanwisut Maneekhot | ธารวิสุทธิ์ ภูมรี
+# 🚀 Thanwisut Pumaree | ธารวิสุทธิ์ ภูมรี
 
 ### Age: 17-18 | Cybersecurity Enthusiast & AI Explorer 🤖💻
 
