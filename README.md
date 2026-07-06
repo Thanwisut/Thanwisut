@@ -1,6 +1,6 @@
-# 🚀 Thanwisut Maneekhot | ธารวิสุทธิ์ มณีโคตร
+# 🚀 Thanwisut Maneekhot | ธารวิสุทธิ์ ภูมรี
 
-### Age: 16-17 | Cybersecurity Enthusiast & AI Explorer 🤖💻
+### Age: 17-18 | Cybersecurity Enthusiast & AI Explorer 🤖💻
 
 ---
 
@@ -68,9 +68,9 @@ You’re officially awesome. Keep being curious, keep hacking life the right way
 
 ---
 
-# 🚀 ธารวิสุทธิ์ มณีโคตร
+# 🚀 ธารวิสุทธิ์ ภูมรี
 
-### อายุ 16-17 ปี | สายลุย Cybersecurity & สำรวจ AI 🤖💻
+### อายุ 17-18 ปี | สายลุย Cybersecurity & สำรวจ AI 🤖💻
 
 ---
 
@@ -97,7 +97,7 @@ You’re officially awesome. Keep being curious, keep hacking life the right way
 | **Wireshark** | ดักจับแพ็กเก็ต                | ดมแพ็กเก็ตเหมือนหมาเลือด     |
 | **Nikto**     | สแกนเว็บเซิร์ฟเวอร์          | เจอช่องโหว่ง่าย ๆ           |
 
-...และอีกมากมาย เพราะสงครามไซเบอร์ไม่มีที่ยืนให้คนไม่พร้อม!
+...และอีกมากมาย เพราะสงครามไซเบอร์ไม่มีที่ยืนให้คนไม่พร้อม
 
 ---
 
