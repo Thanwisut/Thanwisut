@@ -1,154 +1,182 @@
-# 🚀 Thanwisut Pumaree | ธารวิสุทธิ์ ภูมรี
+[README.md](https://github.com/user-attachments/files/30075238/README.md)
+<div align="center">
 
-### Age: 17-18 | Cybersecurity Enthusiast & AI Explorer 🤖💻
+# Hi, I'm Thanwisut 👋
 
----
+### High school student building in cybersecurity, AI, and web development
 
-> “**Hacking the system? Nah, I’m here to protect it — one line of code at a time.**”  
-> — Thanwisut
+I'm currently focused on becoming a strong cybersecurity engineer while combining AI with security automation — learning by shipping real tools, not just reading about them.
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://thanwisut.vercel.app/thanwisut)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thanwisut)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thanwisut2551@gmail.com)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@thanwisutsiamsec)
 
-## 👋 Hey, you made it here! Let me tell you a story...
-
-I’m Thanwisut — a teenager who fell in love with the digital world early on. Started poking around computers since grade 6, took a little break (because, hey, life), then *came back stronger* in high school ready to take on cybersecurity like a boss.
-
----
-
-## 🛠️ My Tools of Choice (Because every hero needs their gear)
-
-| Tool          | What I use it for                 | Fun fact                      |
-| ------------- | ------------------------------- | ---------------------------- |
-| **sqlmap**    | SQL Injection hunter             | Automates the dirty work     |
-| **John**     | Password cracker                 | Fast & furious brute forcing |
-| **Metasploit**| Exploitation framework           | Swiss army knife for hackers |
-| **Nmap**      | Network scanning                 | Finds the hidden doors       |
-| **Burp Suite**| Web app testing                  | Man-in-the-middle like a pro |
-| **Wireshark** | Packet sniffing                 | Sniffs packets like a bloodhound |
-| **Nuclei**     | Web server scanner              | Spots weaknesses quickly     |
-
-…and a whole arsenal more — because cyber defense is a battlefield!
+</div>
 
 ---
 
-## 🤖 Why Cybersecurity? Why AI?
+## 🧭 About Me
 
-The world is getting smarter — and so are the threats. I want to ride the wave of **AI-powered security**, making smart tools that automate the boring stuff and supercharge defense mechanisms.
+I'm a student from Thailand with a genuine interest in how systems break and how to build them more securely. My interests sit at the intersection of **cybersecurity, web development, and AI** — I like understanding a system well enough to attack it, and well enough to defend it.
 
-Plus, coding in **Python** lets me build those tools from scratch — and that’s where the magic happens.
+Outside of security work, I build web apps, write automation tooling, and create content to share what I'm learning.
 
----
-
-## 🎯 My Mission
-
-> To master cybersecurity, wield AI as my shield and sword,  
-> and make the digital world a safer place —  
-> one hack, one script, one breakthrough at a time.
----
-
-## 👇🏽This is all the projects I have created
-
-<ul>
-  <li><a href="https://github.com/Thanwisut/Spam">📲 Python SMS Spamming Tool</a></li>
-  <li><a href="https://github.com/Thanwisut/S7IAM-PHISH">🎣 Simple Phishing Tool (Edited from Zphisher)</a></li>
-  <li><a href="https://github.com/Thanwisut/nglspam-lnwper">📤 NGL Spamming Tool</a></li>
-</ul
+- 🔐 Interested in: Cybersecurity, Web Security, AI, Programming, Linux, Networking, Automation, Open Source
+- 🎯 Currently working toward: becoming a strong cybersecurity engineer, blending AI with security automation
+- 🌱 I'm still early in this journey — everything below reflects real, in-progress work, not a finished resume
 
 ---
 
-## 🌟 Wanna Connect?
+## 🛠️ Skills
 
-Whether you want to collaborate, share ideas, or just geek out about tech, hit me up!  
-Because the future is coded by those who dare to break the rules — responsibly.
+<table>
+<tr>
+<td valign="top" width="50%">
 
----
+**Programming**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-✨ **Thanks for reading all the way down here!** ✨  
-You’re officially awesome. Keep being curious, keep hacking life the right way.  
+**Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
----
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white)
 
-# 🚀 ธารวิสุทธิ์ ภูมรี
+</td>
+<td valign="top" width="50%">
 
-### อายุ 17-18 ปี | สายลุย Cybersecurity & สำรวจ AI 🤖💻
+**Database**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
----
+**DevOps / Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-> “**แฮ็กระบบ? เปล่า ผมมาเพื่อปกป้องมัน ด้วยโค้ดทุกบรรทัดที่เขียนขึ้นมา**”  
-> — Thanwisut
+**Cybersecurity Tooling**
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
 
----
+</td>
+</tr>
+</table>
 
-## 👋 ดีใจที่คุณอ่านมาถึงตรงนี้!
+<details>
+<summary><b>Full recon / offensive-security toolkit</b></summary>
+<br>
 
-ผมคือ เด็กวัยรุ่นที่รักโลกดิจิทัล เริ่มสนใจตั้งแต่ ป.6 หยุดไปพักหนึ่ง แล้วกลับมาเต็มตัวตอน ม.3-4 พร้อมลุยสาย Cybersecurity
+`Nuclei` · `sqlmap` · `John the Ripper` · `Gobuster` · `ffuf` · `Amass` · `Subfinder` · `httpx` · `Naabu` · OWASP Top 10 methodology
 
----
-
-## 🛠️ อาวุธคู่ใจ 
-
-| เครื่องมือ    | ใช้ทำอะไร                      | เรื่องสนุก                    |
-| ------------- | ----------------------------- | ---------------------------- |
-| **sqlmap**    | นักล่า SQL Injection          | ทำงานสกปรกให้อัตโนมัติ      |
-| **John**     | ทุบรหัสผ่าน                   | เร็วและโหด                  |
-| **Metasploit**| กรอบทำ exploit                | มีดพับสารพัดประโยชน์ของแฮ็กเกอร์ |
-| **Nmap**      | สแกนเครือข่าย                | ค้นหาประตูลับ                |
-| **Burp Suite**| ทดสอบเว็บแอป                 | เล่น man-in-the-middle  |
-| **Wireshark** | ดักจับแพ็กเก็ต                | ดมแพ็กเก็ต    |
-| **Nuclei**     | สแกนเว็บเซิร์ฟเวอร์          | เจอช่องโหว่ง่าย           |
-
-...และอีกมากมาย เพราะสงครามไซเบอร์ไม่มีที่ยืนให้คนไม่พร้อม
-
----
-
-## 🤖 ทำไมต้อง Cybersecurity & AI?
-
-โลกฉลาดขึ้น ความเสี่ยงก็ฉลาดขึ้น ผมอยากขี่คลื่น AI เพื่อสร้างเครื่องมืออัจฉริยะ ช่วยงานซ้ำ ๆ ให้ล้ำ และป้องกันภัยคุกคามอย่างมีประสิทธิภาพ
-
-การเขียน Python คือเวทมนตร์ที่ทำให้ผมสร้างสรรค์สิ่งเหล่านี้เอง
-
----
-
-## 👇🏽นี่คือ โปรเจคท์ที่ผมได้สร้างทั้งหมด 
-
-<ul>
-  <li><a href="https://github.com/Thanwisut/Spam">📲 Python SMS Spamming Tool</a></li>
-  <li><a href="https://github.com/Thanwisut/S7IAM-PHISH">🎣 Simple Phishing Tool (Edited from Zphisher)</a></li>
-  <li><a href="https://github.com/Thanwisut/nglspam-lnwper">📤 NGL Spamming Tool</a></li>
-</ul
+</details>
 
 ---
 
-## 🎯 ภารกิจของผม
+## 🚀 Featured Projects
 
-> เพื่อเชี่ยวชาญด้านความปลอดภัยไซเบอร์ ใช้ AI เป็นโล่และดาบ  
-> สร้างโลกดิจิทัลให้ปลอดภัยขึ้น —  
-> ทีละแฮ็ก ทีละสคริปต์ ทีละก้าวแห่งความสำเร็จ
+### 🔴 [REDPILOT](https://github.com/Thanwisut/RedPilot)
+**AI-powered autonomous penetration testing framework**
 
----
+REDPILOT is my biggest project so far — an attempt to see how far LLM-driven agents can go in automating real penetration-testing workflows, from reconnaissance through reporting. I built it because a lot of the repetitive parts of pentesting (recon, enumeration, first-pass triage) are exactly the kind of work an agent can help with, if it's given the right tools and enough human oversight to stay safe and accountable.
 
-## 🌟 อยากติดต่อ?
+It's built around a terminal-first philosophy — a rich TUI (built with [Ink](https://github.com/vadimdemedes/ink), React for CLIs) acts as the operator's command center, while a Python/FastAPI backend orchestrates agents and tools over a typed WebSocket contract.
 
-ถ้าอยากร่วมงาน แบ่งปันไอเดีย หรือคุยเรื่องเทคฯ ทักมาเลยครับ  
-เพราะอนาคตถูกสร้างโดยคนกล้าที่จะเล่นกับกฎ
+**Highlights:**
+- 🤖 LLM-driven agents that autonomously execute pentesting tasks, with multi-provider support (OpenRouter, Gemini, OpenAI-compatible)
+- 🔬 Task orchestration across multiple coordinated agents, visualized as a live task graph
+- 🛠️ Sandboxed execution layer for real security tools (subfinder, nmap, nuclei, and more)
+- ✅ Human-in-the-loop approval for sensitive operations — nothing destructive runs unattended
+- 📝 Structured, auditable markdown reports
 
----
-
-<h2 align="center">🛰️ ติดตามภารกิจผม</h2>
-
-<p align="center">
-  <a href="https://www.tiktok.com/@alaricbannet">
-    <img src="https://img.shields.io/badge/TikTok-@alaricbannet-black?style=for-the-badge&logo=tiktok&logoColor=white" />
-  </a>
-  <a href="https://t.me/Inwper2551">
-    <img src="https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</p>
-
-<p align="center"><i>“We hack to learn — not to destroy.”</i></p>
+`TypeScript` `Python` `Ink/React` `FastAPI` `WebSockets`
 
 ---
 
-<h4 align="center">Made with ❤️ and terminal by Thanwisut</h4
+### 🎓 [SiamSec](https://siam-sec.vexr.dev)
+**Cybersecurity learning platform**
 
+A platform built to make learning ethical hacking, web security, and Linux more structured and hands-on — built with the kind of resource I wished existed when I was starting out. It offers guided learning paths and premium content behind authentication, with a markdown-based content editor on the backend.
 
+`Next.js` `Supabase` `Authentication` `Markdown CMS`
+
+---
+
+### 💼 [Digital Identity Card](https://thanwisut.vercel.app/thanwisut)
+**Personal portfolio / digital business card**
+
+A modern, minimal personal site that works as a digital identity card — built to look sharp on both desktop and mobile, with a focus on clean motion and responsive layout over heavy visual noise.
+
+`Next.js` `TailwindCSS` `Responsive Design`
+
+---
+
+### 🏢 Company Landing Page
+**Cybersecurity services landing page**
+
+A professional landing page built for a cybersecurity-focused brand — service showcase, clean modern UI, fully responsive.
+
+`Next.js` `TailwindCSS`
+
+---
+
+### 🧪 Other / Learning Projects
+
+<details>
+<summary>Offensive-security research repos</summary>
+<br>
+
+A few smaller repositories (`Spam`, `S7IAM-PHISH`, `nglspam-lnwper`) built while studying offensive security concepts — social engineering mechanics, phishing infrastructure, and how these attacks are actually built, purely for educational and defensive-research purposes. Understanding how these techniques work is part of learning how to defend against them.
+
+</details>
+
+---
+
+## 📚 Currently Learning
+
+`AI Agents` · `MCP` · `LLMs` · `Prompt Engineering` · `Malware Analysis` · `Web Security` · `Cloud Security` · `Active Directory` · `API Security` · `Reverse Engineering`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Thanwisut&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thanwisut&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanwisut&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thanwisut&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="90%"/>
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thanwisut)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thanwisut2551@gmail.com)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@thanwisutsiamsec)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](#)
+
+</div>
+
+<div align="center">
+<sub>Always learning, always building — feel free to reach out.</sub>
+</div>
