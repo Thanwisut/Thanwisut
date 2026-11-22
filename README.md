@@ -7,7 +7,7 @@
 
 I'm currently focused on becoming a strong cybersecurity engineer while combining AI with security automation — learning by shipping real tools, not just reading about them.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://thanwisut.vercel.app/thanwisut)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://thanwisut-portfolio.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thanwisut)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thanwisut2551@gmail.com)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@thanwisutsiamsec)
@@ -114,7 +114,7 @@ A platform built to make learning ethical hacking, web security, and Linux more 
 
 ---
 
-### 💼 [Digital Identity Card](https://thanwisut.vercel.app/thanwisut)
+### 💼 [Digital Identity Card](https://thanwisut-portfolio.vercel.app)
 **Personal portfolio / digital business card**
 
 A modern, minimal personal site that works as a digital identity card — built to look sharp on both desktop and mobile, with a focus on clean motion and responsive layout over heavy visual noise.
